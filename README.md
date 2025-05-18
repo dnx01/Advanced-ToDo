@@ -1,6 +1,6 @@
 # Advanced To-Do List
 
-## 🚀 [Live Demo](https://modern-landingpagednzdev.netlify.app/)
+## 🚀 [Live Demo](https://advanced-tododnzdev.netlify.app)
 
 A modern, feature-rich to-do list application built with React and Next.js. This demo showcases best practices for creating a responsive, user-friendly task management system with local storage persistence and dark mode support.
 
